@@ -1,5 +1,5 @@
-This Repository contains the code for a HTTP server as the HTTP library doesn't come with standard library.
-The <mark>http</mark> directory contains the library code for the HTTP server.
+This Repository contains the code for a HTTP server as the HTTP library doesn't come with standard library.<br/>
+The <mark>http</mark> directory contains the library code for the HTTP server.<br/>
 The <mark>httpserver</mark> directory contains binary code for the Http server.
 
 The server runs on 3000 port.
