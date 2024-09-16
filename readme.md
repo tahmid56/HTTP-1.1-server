@@ -1,4 +1,4 @@
-This Repository contains the code for a HTTP server as there are no HTTP server comes with standard library.
+This Repository contains the code for a HTTP server as the HTTP library doesn't come with standard library.
 The <mark>http</mark> directory contains the library code for the HTTP server.
 The <mark>httpserver</mark> directory contains binary code for the Http server.
 
